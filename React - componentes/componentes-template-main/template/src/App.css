@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Header{
+  background-color: blue;
+}
+
+.Header img{
+  width: 15%;
+
+}
+
+.Footer{
+  background-color: antiquewhite;
+}
+.Garagem{
+  background-color: green;
+}
+.Garagem img{
+  width: 25%;
+}
